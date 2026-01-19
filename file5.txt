@@ -1,0 +1,7 @@
+{
+    "Ism": "Shahruza",
+    "Familiya": "Madrimova",
+    "Yosh": "20",
+    "Manzil": "Muqumiy ko'chasi",
+    "Telefon": "+998-77-007-95-22"
+}

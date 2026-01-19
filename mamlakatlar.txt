@@ -1,0 +1,7 @@
+{
+    "Italia": "Rim",
+    "Xitoy": "Pekin",
+    "Fransiya": "Parij",
+    "Kanada": "Ottava",
+    "Turkiya": "Anqara"
+}
